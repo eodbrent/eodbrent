@@ -1,17 +1,21 @@
-## Hi there 👋
+<h1 align="center">Brent Krous</h1>
+<h3 align="center">Developer | Tinkerer</h3>
 
-<!--
-**eodbrent/eodbrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 What I'm Currently Up To  
+- 🚀 **Building:** An **Inventory Management Website** using **HTML/CSS, JavaScript, Node.js, and React** Learning along the way
+- 💻 **Developing:** A **Custom Windows Terminal** in **C++ and Qt**  
+- 🔧 **Tinkering With:** **C++, Python, Git/VCS**, and expanding my proficiency (B1) with **Norsk**  
+- 🔥 **Always Learning:** Full-stack development, API design, and anything that piques my curiosity
+- <img src="/doctor_6757643.png" /> ...
+###### *I also enjoy making Discord Bots (Python), and leveraging AI as much as I can to learn concepts faster and different ways of doing things.*
+---
 
-Here are some ideas to get you started:
+## 💬 Ask Me About  
+🎨 **UI/UX tweaks** for web apps | 🛠️ **System tinkering** | 📜 **Overcoming Git headaches 🦾** | 🏗️ **API design** | 🖥️ **Custom Windows tools**  
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 I’m currently tinkering with C++, Python, Git/VCS, Norsk, and working on my profile readme 😄
+---
+
+## 🔧 Tech & Tools I Use or am learning 
+📌 Languages:        C++, Python, JavaScript, HTML/CSS, Bootstrap, AutoHotkey
+🔹 Frameworks/Tools: React, Node.js, Qt, MySQL, Git, VS Code, NetBeans
+🌐 Web/Networking:   Oracle Server, Linux, REST APIs
