@@ -15,20 +15,25 @@
 
 ---
 
-## 🔧 Tech & Tools I Use or am learning 
 📌 Languages:        C++, Python, JavaScript, HTML/CSS, Bootstrap, AutoHotkey
 🔹 Frameworks/Tools: React, Node.js, Qt, MySQL, Git, VS Code, NetBeans
 🌐 Web/Networking:   Oracle Server, Linux, REST APIs
-| Technology   |lbl|   Status   | Skill Level |
-|--------------|---|------------|-------------|
+### Tech & Tools I Use or am activley learning
+#### 🛠️ Languages 
+| 📌Langs | |  Status  | Skill Level |
+|--------------|-|----------|-------------|
+|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>|<img src="https://img.shields.io/badge/C++-00599C" />||⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>|<img src="https://img.shields.io/badge/HTML-E34F26" />|||
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>|<img src="https://img.shields.io/badge/CSS-1572B6" />|||
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>|<img src="https://img.shields.io/badge/Bootstrap-7952B3" />|||
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>|<img src="https://img.shields.io/badge/JavaScript-F7DF1E" />|||
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>|<img src="https://img.shields.io/badge/Python-3776AB" />|||
-|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>|<img src="https://img.shields.io/badge/C++-00599C" />||⭐⭐⭐☆☆|
+|||⭐⭐⭐☆☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>|<img src="https://img.shields.io/badge/Java-007396" />|||
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>|<img src="https://img.shields.io/badge/Git-F05032" />||⭐⭐⭐☆|
+
+|Frontend||Status|Skill Level|Backend||Status|Skill Level|
+|--------|-|------|-----------|-------|-|------|-----------|
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
