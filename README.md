@@ -21,7 +21,7 @@
 #### 🛠️ Languages 
 |Langs| |Status|Skill Level|
 |:-----:|:---:|:------:|:-----------:|
-|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>|<img src="https://img.shields.io/badge/C++-00599C" />|<a href="/CustomTerminal/">🔵🟢</a>|⭐⭐⭐☆|
+|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>|<img src="https://img.shields.io/badge/C++-00599C" />|<a href="[/CustomTerminal/](https://github.com/eodbrent/CustomTerminal)">🔵🟢</a>|⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>|<img src="https://img.shields.io/badge/Java-007396" />||⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>|<img src="https://img.shields.io/badge/Python-3776AB" />||⭐⭐⭐☆|
 
