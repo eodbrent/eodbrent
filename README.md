@@ -28,7 +28,7 @@
 
 ### 🌐 Web Development/Networking
 |Frontend||Status|Skill Level|Backend||Status|Skill Level|
-|--------|---|------|-----------|-------|-|------|-----------|
+|:--------:|:---:|:------:|:-----------:|:-------:|:-:|:------:|:-----------:|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>|<img src="https://img.shields.io/badge/HTML-E34F26" />||⭐⭐⭐☆|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>|<img src="https://img.shields.io/badge/JavaScript-F7DF1E" />||⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>|<img src="https://img.shields.io/badge/CSS-1572B6" />||⭐⭐⭐☆|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>|<img src="https://img.shields.io/badge/Node.js-339933" />||⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>|<img src="https://img.shields.io/badge/Bootstrap-7952B3" />||⭐⭐⭐☆|<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>|<img src="https://img.shields.io/badge/Rest-333333" />||⭐⭐⭐☆|
@@ -38,7 +38,7 @@
 
 ### IDE's, Editors & Misc
 |||||
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>|<img src="https://img.shields.io/badge/VS%20Code-007ACC" />||⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>|<img src="https://img.shields.io/badge/PyCharm-21D789" />||⭐⭐⭐☆|
 |<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>|<img src="https://img.shields.io/badge/Jira-0052CC" />||⭐⭐⭐☆|
