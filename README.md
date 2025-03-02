@@ -17,7 +17,7 @@
 |Using - Current Proj|Active|Learning|On Hold|Exploring/evaluating|
 |:---:|:---:|:---:|:---:|:---:|
 🔵 |🟢 | 🟡 | 🔴 | ⚪ | 
-### Tech & Tools I use or am activley learning
+### Tech & Tools I use or am activley learning (WIP, skill levels not accurate, 2 March 25)
 #### 🛠️ Languages 
 |Langs| |Status|Skill Level|
 |:-----:|:---:|:------:|:-----------:|
